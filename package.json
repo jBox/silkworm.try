@@ -1,0 +1,27 @@
+{
+  "name": "silkworm.try",
+  "version": "1.0.0",
+  "description": "Trying queue for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jBox/silkworm.try.git"
+  },
+  "keywords": [
+    "Queue",
+    "expressjs"
+  ],
+  "author": "jBox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jBox/silkworm.try/issues"
+  },
+  "homepage": "https://github.com/jBox/silkworm.try#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
